@@ -1,5 +1,7 @@
 # Digit-recognizer-From-Scratch
 
+Done by: Darin Joseph, Sara Cepic
+
 This project implements a neural network from scratch to recognize hand-written digits from the MNIST dataset. The goal is to demonstrate the fundamentals of neural networks without relying on deep learning frameworks.
 
 Data :
